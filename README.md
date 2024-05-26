@@ -11,10 +11,14 @@ The colab notes reflect strutured approach to ML/AI problem solving to serve as 
 
 **A Files: Data Collection, Cleaning***
 
-  A1 -IBM_ML_AI_DataRetrieval_SQL_WK2.1
-  A2 -IBM_ML_AI_WK2_2_Data_Cleaning_Lab
-  A3 -ibm_ml_ai_datapullsqlwk2_2
-  A4 -Wk2Data_Cleaning_Lab2
+  A1 -IBM_ML_AI_DataRetrieval_SQL_WK2.1  
+  
+  A2 -IBM_ML_AI_WK2_2_Data_Cleaning_Lab  
+  
+  A3 -ibm_ml_ai_datapullsqlwk2_2  
+  
+  A4 -Wk2Data_Cleaning_Lab2  
+  
 
 **B Files: Exploratory Data Analysis (EDA)***
 
