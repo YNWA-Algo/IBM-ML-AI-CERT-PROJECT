@@ -35,13 +35,18 @@ The colab notes reflect strutured approach to ML/AI problem solving to serve as 
 
 Data files for section E-> car price.CSV file for simple linear regression;  Ames_housing data for the polynomial regression; encoded_car_data_PolyFeat.csv 
 
-E1 -  L2_wk1_linear_regression
-E2 - 02bL2_Wk2_LAB_Regression_Train_Test_Split
-E3 - 02cL2_Wk2_Polynomial_Regression
+E1 -  L2_wk1_linear_regression  
+
+E2 - 02bL2_Wk2_LAB_Regression_Train_Test_Split  
+
+E3 - 02cL2_Wk2_Polynomial_Regression  
+
 
 Standardization, chaining steps using pipelines, transformations etc. 
 
 **F Files: Cross Validation; Grid_CV and Regularization (using Ridge, Lasso, E-Net)**
 
--> 02cL2_Wk3_DEMO_Cross_Validation
--> 02dL2_Wk4_DEMO_Regularization
+-> 02cL2_Wk3_DEMO_Cross_Validation  
+
+-> 02dL2_Wk4_DEMO_Regularization  
+
