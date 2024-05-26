@@ -52,7 +52,8 @@ Standardization, chaining steps using pipelines, transformations etc.
 Data files for section E - encoded car data, see not books. 
 F3 and F4 ->This workflow spends time on using the pipeline approach to chain ML steps and also using Gridsearch for hyperparameter selection by performing hyperparameter selection on a model using validation data and finally showing the impact of PCA (principal component analysis).  F4 introduces PCA (principal component analysis in reducing dimensionality)
 
-F1 02cL2_Wk3_DEMO_Cross_Validation  
-F2 02dL2_Wk4_DEMO_Regularization  
-F3 02eL2_WK5_LAB_Regularization_jupyterlite.ipynb
+F1-02cL2_Wk3_DEMO_Cross_Validation  
+F2- 02dL2_Wk4_DEMO_Regularization  
+F3-02eL2_WK5_LAB_Regularization_jupyterlite.ipynb  
+F4-02eeL2_WK5_Regularization_Techniques.ipynb
 
