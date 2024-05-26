@@ -50,7 +50,7 @@ Standardization, chaining steps using pipelines, transformations etc.
 
 **F Files: Cross Validation; Grid_CV and Regularization (using Ridge, Lasso, E-Net)**
 
--> 02cL2_Wk3_DEMO_Cross_Validation  
+F1 02cL2_Wk3_DEMO_Cross_Validation  
 
--> 02dL2_Wk4_DEMO_Regularization  
+F2 02dL2_Wk4_DEMO_Regularization  
 
