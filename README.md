@@ -60,4 +60,5 @@ F4-02eeL2_WK5_Regularization_Techniques.ipynb
 ------------------------------------------------------------------------------------------------------------------
 G - Section is ML  - Classification:  
 
-G1 - 03a  
+G1 - G1] 03aL3_Wk1_Logistic_Regression_Error_Metrics.ipynb  
+G2 - 
