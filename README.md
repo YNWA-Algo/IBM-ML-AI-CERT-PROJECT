@@ -57,3 +57,7 @@ F2- 02dL2_Wk4_DEMO_Regularization
 F3-02eL2_WK5_LAB_Regularization_jupyterlite.ipynb  
 F4-02eeL2_WK5_Regularization_Techniques.ipynb
 
+------------------------------------------------------------------------------------------------------------------
+G - Section is ML  - Classification:  
+
+G1 - 03a  
