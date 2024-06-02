@@ -65,5 +65,6 @@ Logistic Reg error metrics- precision, recall, confusion matrix etc. KNN approac
 
 G1 - 03aL3_Wk1_Logistic_Regression_Error_Metrics.ipynb  
 G2 - 03bL3.Wk2_KNN1.ipynb  
-G3 - 03cL3_Wk3_SVM.ipynb
+G3 - 03cL3_Wk3_SVM.ipynb  
+G4 - 03dL3_Wk3_SVM_RBF.ipynb
 
