@@ -58,8 +58,12 @@ F3-02eL2_WK5_LAB_Regularization_jupyterlite.ipynb
 F4-02eeL2_WK5_Regularization_Techniques.ipynb
 
 ------------------------------------------------------------------------------------------------------------------
-G - Section is ML  - Classification:  
+**G - Section is ML  - Classification:**  
+
+Logistic Reg error metrics- precision, recall, confusion matrix etc. KNN approach to class, support vector machines  
+
 
 G1 - 03aL3_Wk1_Logistic_Regression_Error_Metrics.ipynb  
 G2 - 03bL3.Wk2_KNN1.ipynb  
+G3 - 03cL3_Wk3_SVM.ipynb
 
