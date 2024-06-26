@@ -80,6 +80,8 @@ G9 - 3fL3_WK5_Stacking_Classification.ipynb
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ****H - Dealing with imbalanced datasets****
-
-
+typical patterns of imbalanced data challenges
+  - Class Re-weighting method to adjust the impacts of different classes in model training processes
+  - Oversampling and Undersampling to generate synthetic datasets and rebalance classes
+  - Evaluate consolidated classifiers using robust metrics such as F-score and AUC
 
