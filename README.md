@@ -1,4 +1,5 @@
-# IBM-ML-AI-CERT-PROJECT
+# IBM-ML-AI-CERT-PROJECT - EDA, and Supervised Learning:
+
 Repository for my IBM AI/ML project based certification course.
 
 The colab notes reflect strutured approach to ML/AI problem solving to serve as my general workflow template:
@@ -66,5 +67,6 @@ Logistic Reg error metrics- precision, recall, confusion matrix etc. KNN approac
 G1 - 03aL3_Wk1_Logistic_Regression_Error_Metrics.ipynb  
 G2 - 03bL3.Wk2_KNN1.ipynb  
 G3 - 03cL3_Wk3_SVM.ipynb  
-G4 - 03dL3_Wk3_SVM_RBF.ipynb
+G4 - 03dL3_Wk3_SVM_RBF.ipynb 
+G5 - 03dL3_WK3_Decision_Trees.ipynb
 
