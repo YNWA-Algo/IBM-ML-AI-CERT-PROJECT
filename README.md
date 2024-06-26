@@ -79,7 +79,7 @@ G9 - 3fL3_WK5_Stacking_Classification.ipynb
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**H - Dealing with imbalanced datasets***
+****H - Dealing with imbalanced datasets****
 
 
 
