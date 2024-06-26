@@ -70,8 +70,12 @@ G3 - 03cL3_Wk3_SVM.ipynb
 G4 - 03dL3_Wk3_SVM_RBF.ipynb  
 G5 - 03dL3_WK3_Decision_Trees.ipynb  
 G6 - 03e_L3_Wk5_Bagging.ipynb 
+
 G7 - 03gL3_Wk5_GradientBoosting_and_Stacking.ipynb 
+
 G8 - 3gL3_Wk3_Ada_Boost.ipynb 
+
 G9 - 3fL3_WK5_Stacking_Classification.ipynb 
+
 
 
