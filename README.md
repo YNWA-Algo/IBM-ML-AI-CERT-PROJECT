@@ -62,7 +62,7 @@ F4-02eeL2_WK5_Regularization_Techniques.ipynb
 **G - Section is ML  - Classification:**  + Advanced Model Types/Reg Techniques: Bagging,
 
 Logistic Reg error metrics- precision, recall, confusion matrix etc. KNN approach to class, support vector machines  
-Bagging
+Bagging, Gradient Boosting, Stacking. 
 
 G1 - 03aL3_Wk1_Logistic_Regression_Error_Metrics.ipynb  
 G2 - 03bL3.Wk2_KNN1.ipynb  
@@ -70,4 +70,5 @@ G3 - 03cL3_Wk3_SVM.ipynb
 G4 - 03dL3_Wk3_SVM_RBF.ipynb 
 G5 - 03dL3_WK3_Decision_Trees.ipynb 
 G6 - 03e_L3_Wk5_Bagging.ipynb
+G7 - 03gL3_Wk5_GradientBoosting_and_Stacking.ipynb
 
